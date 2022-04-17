@@ -1,0 +1,1 @@
+FreeMem = Space(quantity_of_ram_in_byte)
